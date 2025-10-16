@@ -59,5 +59,8 @@ Step 7: Finalize and Export
 
 # Output
 
+[EXP 1.pdf](https://github.com/user-attachments/files/22951371/EXP.1.pdf)
 
 # Result
+
+Hence the given question have been verified usinf chatgpt.
