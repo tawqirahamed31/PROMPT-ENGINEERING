@@ -63,4 +63,4 @@ Step 7: Finalize and Export
 
 # Result
 
-Hence the given question have been verified usinf chatgpt.
+Hence the given question have been verified using chatgpt.
